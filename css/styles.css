@@ -11345,7 +11345,11 @@ header.masthead .masthead-heading {
 }
 
 .img-brand {
-  height: 2.75rem;
+  height: 5rem;
+}
+
+.img-brand-xl {
+  height: 7rem;
 }
 
 section#contact {
