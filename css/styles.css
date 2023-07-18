@@ -11362,7 +11362,7 @@ section#contact {
   background-color: #212529;
   background-image: url("../assets/img/map-image.png");
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center 2rem;
 }
 section#contact .section-heading {
   color: #fff;
